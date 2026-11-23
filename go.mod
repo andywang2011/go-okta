@@ -1,6 +1,6 @@
 module github.com/andywang2011/go-okta
 
-go 1.27.3
+go 1.27.4
 
 require (
 	github.com/andywang2011/go-httplib v0.2.0
